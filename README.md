@@ -17,7 +17,10 @@ This feature enables users to organize their expenses into predefined or custom 
  **CSS:** For styling the app to make it visually appealing.  
 
  **JAVASCRIPT:** For tracking expenses and managing budgets directly in the app.  
+ 
 ## Screenshots
+
+![budget_app](https://github.com/user-attachments/assets/cc04d481-8ee4-445c-b246-5a81a34250c0)
 
 
 
